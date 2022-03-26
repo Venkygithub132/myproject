@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 How are u
 =======
 How are u ?
 
 >>>>>>> venky2
+=======
+ This is my updated files
+>>>>>>> af31772 (changed)
